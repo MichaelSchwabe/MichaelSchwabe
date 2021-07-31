@@ -6,7 +6,7 @@
 </h1>
 
 <p align='center'>
-  a Python developer and ML Enthusiast from Berlin/Brandenburg, Germany.
+  a developer and ML Enthusiast from Berlin/Brandenburg, Germany.
 </p>
 
 <p align='center'>
