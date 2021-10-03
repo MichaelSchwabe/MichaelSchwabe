@@ -10,6 +10,10 @@
 </p>
 
 <p align='center'>
+  <a href="https://twitter.com/MichaelSchwabe1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
   <a href="http://www.linkedin.com/in/michael-s-a911a1164">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
